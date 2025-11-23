@@ -173,8 +173,9 @@
                 </div>
             </div>
             
-            <a href="store.html" class="button">Get VZMP.APP now!</a>
-            <a href="about.html" class="button">About VZMP.APP Service.</a>
+            <a href="store" class="button">Get VZMP.APP now!</a>
+            <a href="about" class="button">About VZMP.APP Service.</a>
+            <a href="dashboard" class="button">To the VZMP.APP Dashboard</a>
             
             <div class="footer">
                 <div class="footer-item">©VZMP.APP</div>
