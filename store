@@ -369,7 +369,7 @@
                 <i class="fas fa-lock" style="margin-right: 10px;"></i>Select a Plan
             </button>
             
-            <a href="index.html" class="button">Back to Mainpage</a>
+            <a href="index" class="button">Back to Mainpage</a>
             
             <div class="footer">
                 <div class="footer-item">©VZMP.APP</div>
